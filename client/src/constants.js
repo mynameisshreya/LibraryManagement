@@ -1,4 +1,4 @@
-const backendApiUrl = "https://librarymanagement-0zar.onrender.com";
+const backendApiUrl = "http://localhost:8080/api";
 
 const routes = {
   AUTHOR: "author",
